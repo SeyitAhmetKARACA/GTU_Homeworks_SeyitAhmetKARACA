@@ -1,0 +1,10 @@
+Hasan
+ayse, Hasan, ebu-ayse
+sema, Hasan, ebu-ayse
+ali, ayse, ibn-Hasan
+kerim, sema, ibn-Hasan
+samsungS4, ayse, ibn-Hasan
+kristalsu, ayse, ebu-ali
+batman, Hasan, ebu-ayse
+superman, ayse, ebu-ali
+emrecan, ali, ibn-ayse
