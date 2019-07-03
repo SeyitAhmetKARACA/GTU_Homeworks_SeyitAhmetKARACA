@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gokturk3Satalite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gokturk3Satalite_jar</output-path>
+    <root id="archive" name="Gokturk3Satalite.jar">
+      <element id="module-output" name="Gokturk3Satalite" />
+    </root>
+  </artifact>
+</component>

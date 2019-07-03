@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EmailAddressBook:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9ce1a55-ef6e-425c-b4c6-272b1586451e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-21347542">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="2" />
+          <entry key="java" value="562" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="562" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/emailAddressPackage" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1545741132">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/PersonalEmailAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+              <folding>
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/NullIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/EmailAddressAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/CompositeIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/EmailAddressAbstact.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+              <folding>
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/testdrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/GroupEmailAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>allMenus</find>
+      <find>printG</find>
+      <find>null</find>
+      <find>NullIterator</find>
+      <find>getchild</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/emailaddressbook/Main.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/NullIterator.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/MenuComponent.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/Menu.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/EmailAddressItem.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/EmailAddress.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/Waitress.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/AllGroups.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/AllEmailAddressGroups.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/EmailAddressPersonal.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/EmailAddressGroup.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/MenuTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/AllEmailAddress.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/EmailAddressComponent.java" />
+        <option value="$PROJECT_DIR$/src/emailaddressbook/CompositeIterator.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/MenuTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/AllEmailAddress.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/EmailAddressComponent.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/EmailAddressGroup.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/EmailAddressPersonal.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/testdrive.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/EmailAddressAll.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/PersonalEmailAddress.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/NullIterator.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/GroupEmailAddress.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/CompositeIterator.java" />
+        <option value="$PROJECT_DIR$/src/emailAddressPackage/EmailAddressAbstact.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="12" />
+    <option name="width" value="1376" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EmailAddressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailAddressBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmailAddressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailAddressBook" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmailAddressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailAddressBook" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmailAddressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailAddressBook" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="EmailAddressBook_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmailAddressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailAddressBook" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmailAddressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailAddressBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmailAddressBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailAddressBook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="emailAddressPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="emailaddressbook" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544394493450" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gokturk3Satalite" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="emailaddressbook" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Desktop\intellijProject\EmailAddressBook\src\emailaddressbook" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testdrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="emailAddressPackage.testdrive" />
+      <module name="EmailAddressBook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="emailAddressPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testdrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ce1a55-ef6e-425c-b4c6-272b1586451e" name="Default" comment="" />
+      <created>1543353850761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543353850761</updated>
+      <workItem from="1543353853475" duration="12584000" />
+      <workItem from="1543436462903" duration="596000" />
+      <workItem from="1543441251601" duration="1342000" />
+      <workItem from="1543451519311" duration="16000" />
+      <workItem from="1544044844097" duration="832000" />
+      <workItem from="1544383179500" duration="481000" />
+      <workItem from="1544387845623" duration="871000" />
+      <workItem from="1544388821421" duration="1798000" />
+      <workItem from="1544390658709" duration="1304000" />
+      <workItem from="1544392361411" duration="897000" />
+      <workItem from="1544393285622" duration="183000" />
+      <workItem from="1544394463287" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29198185" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.66939443" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3283582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/emailaddressbook/Main.java" />
+    <entry file="uml://JAVA/emailAddressPackage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>emailAddressPackage</OriginalElement>
+          <nodes>
+            <node x="687.0" y="132.5">emailAddressPackage.NullIterator</node>
+            <node x="393.0" y="110.0">emailAddressPackage.EmailAddressAll</node>
+            <node x="126.38080808080815" y="235.0">emailAddressPackage.GroupEmailAddress</node>
+            <node x="303.0" y="0.0">emailAddressPackage.EmailAddressAbstact</node>
+            <node x="0.0" y="110.0">emailAddressPackage.CompositeIterator</node>
+            <node x="659.5520833333333" y="257.0">emailAddressPackage.PersonalEmailAddress</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="emailAddressPackage.PersonalEmailAddress" target="emailAddressPackage.NullIterator">
+              <point x="-87.33333333333331" y="-48.5" />
+              <point x="703.21875" y="215.0" />
+              <point x="741.0" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="emailAddressPackage.PersonalEmailAddress" target="emailAddressPackage.EmailAddressAbstact">
+              <point x="0.0" y="-48.5" />
+              <point x="790.5520833333333" y="215.0" />
+              <point x="805.5" y="215.0" />
+              <point x="805.5" y="60.0" />
+              <point x="440.31818181818187" y="60.0" />
+              <point x="57.81818181818187" y="15.0" />
+            </edge>
+            <edge source="emailAddressPackage.CompositeIterator" target="emailAddressPackage.EmailAddressAbstact">
+              <point x="-84.75" y="-37.5" />
+              <point x="84.75" y="80.0" />
+              <point x="310.22727272727275" y="80.0" />
+              <point x="-72.27272727272725" y="15.0" />
+            </edge>
+            <edge source="emailAddressPackage.GroupEmailAddress" target="emailAddressPackage.CompositeIterator">
+              <point x="-153.20000000000005" y="-70.5" />
+              <point x="164.6808080808081" y="215.0" />
+              <point x="169.5" y="215.0" />
+              <point x="0.0" y="37.5" />
+            </edge>
+            <edge source="emailAddressPackage.GroupEmailAddress" target="emailAddressPackage.EmailAddressAbstact">
+              <point x="-76.60000000000002" y="-70.5" />
+              <point x="241.28080808080813" y="205.0" />
+              <point x="349.5" y="205.0" />
+              <point x="349.5" y="90.0" />
+              <point x="339.1363636363636" y="90.0" />
+              <point x="-43.363636363636374" y="15.0" />
+            </edge>
+            <edge source="emailAddressPackage.EmailAddressAll" target="emailAddressPackage.EmailAddressAbstact">
+              <point x="-68.5" y="-37.5" />
+              <point x="461.5" y="90.0" />
+              <point x="396.9545454545455" y="90.0" />
+              <point x="14.454545454545496" y="15.0" />
+            </edge>
+            <edge source="emailAddressPackage.NullIterator" target="emailAddressPackage.EmailAddressAbstact">
+              <point x="0.0" y="-15.0" />
+              <point x="741.0" y="70.0" />
+              <point x="425.8636363636364" y="70.0" />
+              <point x="43.363636363636374" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hıerarchıc Group" zoom="1.0" x="237.0" y="92.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/PersonalEmailAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+          <folding>
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/NullIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/EmailAddressAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/CompositeIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/EmailAddressAbstact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding>
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/GroupEmailAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/emailAddressPackage/testdrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>EmailAddressBook:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EmailAddressBook</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
