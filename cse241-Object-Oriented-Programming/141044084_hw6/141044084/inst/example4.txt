@@ -1,0 +1,8 @@
+mov #0,30
+mov r1,10
+mov #1,99
+mov r2,88
+mov #6,666
+mov r3,8
+mov r3,#7
+HLT
