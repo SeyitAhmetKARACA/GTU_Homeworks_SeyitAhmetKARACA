@@ -1,0 +1,38 @@
+Actuator
+uygulama monitör ediliyor. 
+
+Önce pet ve owner sýnýflarýný oluþturdu.
+id
+name
+surname vs tek bir owner ve pet oluþturdu.
+buna model dedi
+
+sonra dao paketi oluþturup repositorylerini yaptý
+yani veri ekleme çýkarma update find gibi iþlemler için
+interface oluþturdu ikisi içinde (pet ve owner için)
+bunlarýn 
+
+
+petclinic için servis katmanýný oluþturuyor.
+paket oluþturdu
+içerisinde servis için interface oluþturdu.
+owner arama vs iþlemlerinin interface i bu.
+
+owner repository implementasyon sýnýfý yapýyoz
+db olmadýðýndan verileri tutmak için bir sýnýf bu.
+sýnýfýn üzerinde @Repository ekliyor.
+spring boot çalýþma zamanýnda bu sýnýfta bir bean oluþturuyor.
+bu bean'i petclinicservice bean'inin içine enjecte edecez.
+burada ownerlarý tutabileceðimiz bir olay yapýyoruz.
+ownersRepository interface i implement ediyor.
+birkaç kayýt atýyor içine map þeklinde
+
+en sonda petclinicserviceimplementation sýnýfý yapýyor
+yani petclinicservice interface ini implement edecek.
+bu sýnýfýn üstüne @Service yazýyor.
+spring container ýn bu sýnýftan bir bean oluþturmasýný saðlýyor
+ownerRepository tipine bir deðiþken oluþturuyor.
+bir setter yapýyor.
+buna @Autowired yazýyor bunun baþýnda.
+bunun sayesinde spring container ownerRepository tipindeki bir beaný
+çalýþma zamanýnda bu setter ile petclinic beanýn içerisine enjekte ediyor.
